@@ -24,17 +24,17 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6e0098_000.yaml, hash: 'sha256:29e5db34dd140d8d01d3440e56cf32e2d91468b3eed56364d6704469df052101'}
+  - {seq: 0, filename: KR6e0098_000.yaml, hash: 'sha256:e43bec850d8e073ea2d1528772aca128f9a282e33ae9cd2b14773469264b28da'}
   - {seq: 1, filename: KR6e0098_001.yaml, hash: 'sha256:27e7bbb1f459294c244d6e03cd06b176a6aef8adf3f85567db17e5d12791b1a0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6e0098_000.markers.yaml, hash: 'sha256:54aec3501124f10ce6d893a2b54b75bbb7fbbeb850bec4e28cf69adcd1fe5835'}
+  - {seq: 0, role: markers, filename: assets/KR6e0098_000.markers.yaml, hash: 'sha256:4202added8ea9322e7654db9140dd0d4f287b7178580e674458235592771aa97'}
   - {seq: 1, role: markers, filename: assets/KR6e0098_001.markers.yaml, hash: 'sha256:d6f9ecdfa0ff3bb58cfc0c10ffa16a90ebd29bbb7e52cad5fb0d24e7118034dd'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6e0098_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 金師子章序
@@ -50,7 +50,7 @@ table_of_contents:
   label: 大方廣佛華嚴經金師子章
   type: juan
   level: 1
-hash: sha256:0136a30ad6a5bdc4b7a563756a52bc3fed7acd1cd793ebec6f9e4e65d7323b0c
+hash: sha256:5f9cf4ec4bde489ee481d59e9b3790db6a7aa5cea4ad5f16b8b1f066e0eb3e38
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

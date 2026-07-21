@@ -19,17 +19,17 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6e0098_000-T.yaml, hash: 'sha256:eb0274e9ebedc16e40c35c15e4d4aeac942be513ab923228b9bce8c718f6e6be'}
+  - {seq: 0, filename: KR6e0098_000-T.yaml, hash: 'sha256:8b0a249d6da4c58d21790c61cf1ba2632c0f0087af0b7aa0f3fb411ce2822eba'}
   - {seq: 1, filename: KR6e0098_001-T.yaml, hash: 'sha256:333e3df262d00cce5b5bdcfebe964b8a7384f15f7bc1e967f3f6d8e5f3db7ab3'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6e0098_000-T.markers.yaml, hash: 'sha256:880028beb8eb604368edfc34b4c987d79cbd8f04441f552f5acbeb38b27bb6a8'}
+  - {seq: 0, role: markers, filename: assets/KR6e0098_000-T.markers.yaml, hash: 'sha256:802913f8864c40c02610f51b216d326a22b0fc570a5aedd445e6456050fd8d9f'}
   - {seq: 1, role: markers, filename: assets/KR6e0098_001-T.markers.yaml, hash: 'sha256:2592c53bc6fdfa26a05d2e47ae7f5cf07986e28330fa3c05941174f71474a261'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6e0098_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 金師子章序
@@ -45,4 +45,4 @@ table_of_contents:
   label: 大方廣佛華嚴經金師子章
   type: juan
   level: 1
-hash: sha256:dd954f7aae4a307a79fe620a274407490b977c27e42ad7d79d7ffaf7b5810b8d
+hash: sha256:2ee4b47a9ae19775ff24b6abba34847cf035d1143db6a184a6d7bf8976f64dac
